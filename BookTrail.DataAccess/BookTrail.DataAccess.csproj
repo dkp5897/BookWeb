@@ -12,7 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Milky.Models\BookTrail.Models.csproj" />
+    <Reference Include="BookTrail.Models">
+      <HintPath>..\BookTrail.Models\obj\Debug\net8.0\BookTrail.Models.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

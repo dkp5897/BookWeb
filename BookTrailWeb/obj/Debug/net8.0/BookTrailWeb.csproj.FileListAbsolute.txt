@@ -1,9 +1,0 @@
-D:\Deepak\.NET\BookTrailWeb\obj\Debug\net8.0\BookTrailWeb.csproj.AssemblyReference.cache
-D:\Deepak\.NET\BookTrailWeb\obj\Debug\net8.0\BookTrailWeb.GeneratedMSBuildEditorConfig.editorconfig
-D:\Deepak\.NET\BookTrailWeb\obj\Debug\net8.0\BookTrailWeb.AssemblyInfoInputs.cache
-D:\Deepak\.NET\BookTrailWeb\obj\Debug\net8.0\BookTrailWeb.AssemblyInfo.cs
-D:\Deepak\.NET\BookTrailWeb\obj\Debug\net8.0\BookTrailWeb.csproj.CoreCompileInputs.cache
-D:\Deepak\.NET\BookTrailWeb\obj\Debug\net8.0\BookTrailWeb.MvcApplicationPartsAssemblyInfo.cache
-D:\Deepak\.NET\BookTrailWeb\obj\Debug\net8.0\BookTrailWeb.RazorAssemblyInfo.cache
-D:\Deepak\.NET\BookTrailWeb\obj\Debug\net8.0\BookTrailWeb.RazorAssemblyInfo.cs
-D:\Deepak\.NET\BookTrailWeb\obj\Debug\net8.0\BookTrailWeb.sourcelink.json
